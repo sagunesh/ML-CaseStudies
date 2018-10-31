@@ -420,7 +420,7 @@ dataframe
 
 
 
-# Appying Logistic Regression with Count Vectorizer (Unigrams & Bigrams)
+# Applying Logistic Regression with Count Vectorizer (Unigrams & Bigrams)
 
 
 ```python
